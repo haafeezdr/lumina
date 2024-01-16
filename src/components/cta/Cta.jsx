@@ -3,12 +3,12 @@ import './cta.css'
 
 const Cta = () => {
   return (
-    <div className='gpt3__cta'>
-      <div className='gpt3__cta-content'>
+    <div className='cta'>
+      <div className='cta-content'>
         <p>Request Early Access to Become Our Member</p>
         <h1>Register today & Start</h1>
       </div>
-      <div className='gpt3__cta-btn'>
+      <div className='cta-btn'>
         <button type='button'>Get Started</button>
       </div>
     </div>

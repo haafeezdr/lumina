@@ -4,7 +4,7 @@ import { A, B, C, D, E} from './imports'
 
 const Brand = () => {
   return (
-    <div className='gpt3__brand section__padding'>
+    <div className='brand section__padding'>
       <div>
         <img src={A} alt="A" width={200} height={200}/>
       </div>
