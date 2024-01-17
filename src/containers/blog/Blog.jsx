@@ -13,14 +13,14 @@ const Blog = () => {
 
       <div className='blog-container'>
         <div className='blog-container_groupA'>
-          <Article imageUrl={blog01} date="Sep 26, 2021" title="This is our best selling product for today. 5 units sold in last 24 hours a true game-changer that has captured the hearts of customers nationwide..Engineered with precision and crafted with top-notch materials, it boasts unmatched quality, delivering an unparalleled user experience.. " />
+          <Article imageUrl={blog04} date="Sep 26, 2021" title="This is our best selling product for today. 5 units sold in last 24 hours a true game-changer that has captured the hearts of customers nationwide..Engineered with precision and crafted with top-notch materials, it boasts unmatched quality, delivering an unparalleled user experience.. " />
           
         </div>
         <div className='blog-container_groupB'>
           <Article imageUrl={blog02} date="Sep 26, 2021" title="4 units sold in last 24 hours" />
-          <Article imageUrl={blog03} date="Sep 26, 2021" title="4 units sold in last 24 hours" />
-          <Article imageUrl={blog04} date="Sep 26, 2021" title="3 units sold in last 24 hours" />
-          <Article imageUrl={blog05} date="Sep 26, 2021" title="2 units sold in last 24 hours" />
+          <Article imageUrl={blog05} date="Sep 26, 2021" title="4 units sold in last 24 hours" />
+          <Article imageUrl={blog01} date="Sep 26, 2021" title="3 units sold in last 24 hours" />
+          <Article imageUrl={blog03} date="Sep 26, 2021" title="2 units sold in last 24 hours" />
         </div>
       </div>
     </div>
