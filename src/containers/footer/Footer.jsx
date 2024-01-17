@@ -20,10 +20,10 @@ const Footer = () => {
                 <p>Nedus Plaza No6/7 Lugard Road, All Rights Reserved</p>
             </div>
             <div className='footer-links_div'>
-                <h4>Links</h4>
-                <p>Social Media</p>
-                <p>Counters</p>
-                <p>Contact</p>
+                <h4>Get in touch</h4>
+                <a href="https://instagram.com/lumina_creationsng" >Instagram</a>
+                <a href="mailto:luminaacreations@gmail.com">Mail</a>
+                <a href="https://twitter.com/SskhamisDesign">Twitter</a>
             </div>
             <div className='footer-links_div'>
                 <h4>Company</h4>
@@ -32,7 +32,7 @@ const Footer = () => {
                 <p>Contact</p>
             </div>
             <div className='footer-links_div'>
-                <h4>Get in touch</h4>
+                <h4>Contact</h4>
                 <p>Nedus Plaza No6/7 Lugard Road UTC junction plateau State</p>
                 <p>+234 706 516 5630</p>
                 <p>luminacreations@gmail.com</p>
